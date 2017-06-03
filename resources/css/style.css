@@ -48,3 +48,17 @@ p {
 #break > h3 {
   color: white;
 }
+
+span.footer {
+  font-family: Helvetica;
+  font-size:   11px;
+  color:       white;
+}
+
+#footer {
+  background-color: dimgray;
+}
+
+#footer > p {
+  text-align: left;
+}
