@@ -1,3 +1,26 @@
 /*  Stylesheet for Broadway project
  *  AJ Harrington <r11132a@gmail.com>
  */
+
+#topnav {
+  background-image: url("../imgs/the-flatiron-building.png"); 
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size:   70px;
+  font-weight: bold;
+  color:       white;
+  text-align:  center;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  font-family: Helvetica;
+  font-size:   18px;
+  color:       white;
+  text-align:  center;
+}
